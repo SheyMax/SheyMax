@@ -26,12 +26,3 @@ With a strong academic background (double degree in Computer Science & Biology +
   - Python
 
 ---
-
-## 📈 Goals
-
-- Deepen my expertise in **networks and cybersecurity**
-- Gain hands-on experience in **secure systems and infrastructures**
-- Continue developing **clean, efficient, and reliable** software
-- Prepare for future roles in **cybersecurity and network engineering**
-
----
