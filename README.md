@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**SheyMax/SheyMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maxime, an engineering student based in Paris, currently specializing in **Networks and Cybersecurity**.  
+With a strong academic background (double degree in Computer Science & Biology + Medicine basics), I am now focusing on **network infrastructures**, **system security**, and **cyber defense concepts**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧠 Solid foundations in **computer science and engineering**
+- 🔐 Current specialization:
+  - Computer networks
+  - Cybersecurity fundamentals
+  - Systems and infrastructure security
+- 📚 Curious about **biology** and **history**
+- ⚽ Football and hiking enthusiast
+- 🐈 Love cats
+
+---
+
+## 🛠️ Languages & Technologies
+
+- **Programming languages**:
+  - C/C++
+  - Java
+  - Python
+
+---
+
+## 📈 Goals
+
+- Deepen my expertise in **networks and cybersecurity**
+- Gain hands-on experience in **secure systems and infrastructures**
+- Continue developing **clean, efficient, and reliable** software
+- Prepare for future roles in **cybersecurity and network engineering**
+
+---
