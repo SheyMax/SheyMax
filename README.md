@@ -12,8 +12,8 @@ With a strong academic background (double degree in Computer Science & Biology +
   - Computer networks
   - Cybersecurity fundamentals
   - Systems and infrastructure security
-- 📚 Curious about **biology** and **history**
-- ⚽ Football and hiking enthusiast
+- 📚 Curious about **biology**, **history** and **astronomy**
+- ⚽ Football and hiking enthusiast (Real Madrid fan)
 - 🐈 Love cats
 
 ---
