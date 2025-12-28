@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Maxime, an engineering student based in Paris, currently specializing in **Networks and Cybersecurity**.  
+I'm Maxime, a french engineering student based in Paris, currently specializing in **Networks and Cybersecurity**.  
 With a strong academic background (double degree in Computer Science & Biology + Medicine basics), I am now focusing on **network infrastructures**, **system security**, and **cyber defense concepts**.
 
 ---
